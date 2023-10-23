@@ -17,9 +17,7 @@ h1 {
   margin-top: 2rem;
   font-size: 3rem;
   color: #d1c9e9;
-  text-shadow: #fff 0px 0px 5px, #fff 0px 0px 10px, #fff 0px 0px 15px,
-    #ff2d95 0px 0px 20px, #ff2d95 0px 0px 30px, #ff2d95 0px 0px 40px,
-    #ff2d95 0px 0px 50px, #ff2d95 0px 0px 75px;
+  text-shadow: #111 0px 0px 5px, #111 0px 0px 10px, #111 0px 0px 15px;
 }
 
 li {
